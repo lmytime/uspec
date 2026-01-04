@@ -4,7 +4,7 @@
       <div class="hero-brand">
         <div class="hero-line">
           <div class="app-name">USpec</div>
-          <h1 class="hero-title">Interactive explore your spectra</h1>
+          <h1 class="hero-title">- Interactive visually inspect your spectra</h1>
         </div>
         <div class="designer">
           Designed by <a href="https://lmytime.com" target="_blank" rel="noreferrer">Mingyu Li</a> · <a href="https://lmytime.com" target="_blank" rel="noreferrer">lmytime.com</a>

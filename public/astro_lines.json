@@ -1,0 +1,1226 @@
+[
+    {
+        "name": "Ly∞",
+        "lambda": 911.75,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "Lyε",
+        "lambda": 937.814,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "C I 945",
+        "lambda": 945.188,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "Lyδ",
+        "lambda": 949.742,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "Lyγ",
+        "lambda": 972.54,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "Lyβ",
+        "lambda": 1025.722,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "C II 1036",
+        "lambda": 1036.3367,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "C II* 1037",
+        "lambda": 1037.0182,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "O VI 1037",
+        "lambda": 1037.6167,
+        "checked": false,
+        "group": "O"
+    },
+    {
+        "name": "Fe II 1063",
+        "lambda": 1063.1764,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Fe II 1081",
+        "lambda": 1081.8748,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Fe II 1096",
+        "lambda": 1096.8769,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Fe II 1112",
+        "lambda": 1112.048,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "P V 1117",
+        "lambda": 1117.9774,
+        "checked": false,
+        "group": "P"
+    },
+    {
+        "name": "Fe II 1121",
+        "lambda": 1121.9748,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Fe III 1122",
+        "lambda": 1122.524,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Fe II 1125",
+        "lambda": 1125.4477,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "P V 1128",
+        "lambda": 1128.0078,
+        "checked": false,
+        "group": "P"
+    },
+    {
+        "name": "C I 1139",
+        "lambda": 1139.7919,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "C I 1140",
+        "lambda": 1140.0096,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "Fe II 1143",
+        "lambda": 1143.226,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Fe II 1144",
+        "lambda": 1144.9379,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "C I 1157",
+        "lambda": 1157.9097,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "C I 1188",
+        "lambda": 1188.8329,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "Si II 1190",
+        "lambda": 1190.4158,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "C I 1193",
+        "lambda": 1193.03,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "Si II 1193",
+        "lambda": 1193.2897,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "Si III 1206",
+        "lambda": 1206.5,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "Fe III 1214",
+        "lambda": 1214.562,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Lyα",
+        "lambda": 1215.67,
+        "checked": true,
+        "group": "H"
+    },
+    {
+        "name": "N V 1238",
+        "lambda": 1238.821,
+        "checked": false,
+        "group": "N"
+    },
+    {
+        "name": "N V 1242",
+        "lambda": 1242.804,
+        "checked": false,
+        "group": "N"
+    },
+    {
+        "name": "Si II 1260",
+        "lambda": 1260.4221,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "Fe II 1260",
+        "lambda": 1260.533,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "C I 1260",
+        "lambda": 1260.7351,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "C I 1277",
+        "lambda": 1277.2452,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "C I 1280",
+        "lambda": 1280.1352,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "S I 1295",
+        "lambda": 1295.6531,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "Ti III 1295",
+        "lambda": 1295.884,
+        "checked": false,
+        "group": "TI"
+    },
+    {
+        "name": "O I 1302",
+        "lambda": 1302.1685,
+        "checked": false,
+        "group": "O"
+    },
+    {
+        "name": "Si II 1304",
+        "lambda": 1304.3702,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "Ni II 1317",
+        "lambda": 1317.217,
+        "checked": false,
+        "group": "NI"
+    },
+    {
+        "name": "C I 1328",
+        "lambda": 1328.8333,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "C I* 1329",
+        "lambda": 1329.1004,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "C II 1334",
+        "lambda": 1334.53,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "C II* 1335",
+        "lambda": 1335.7077,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "Cl I 1347",
+        "lambda": 1347.2396,
+        "checked": false,
+        "group": "CL"
+    },
+    {
+        "name": "Ni II 1370",
+        "lambda": 1370.132,
+        "checked": false,
+        "group": "NI"
+    },
+    {
+        "name": "Ni II 1393",
+        "lambda": 1393.324,
+        "checked": false,
+        "group": "NI"
+    },
+    {
+        "name": "Si IV 1393",
+        "lambda": 1393.76018,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "Si IV 1402",
+        "lambda": 1402.77291,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "Ni II 1454",
+        "lambda": 1454.842,
+        "checked": false,
+        "group": "NI"
+    },
+    {
+        "name": "S I 1473",
+        "lambda": 1473.9943,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "Si II 1526",
+        "lambda": 1526.70698,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "C IV 1548",
+        "lambda": 1548.204,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "C IV 1550",
+        "lambda": 1550.77845,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "C I 1560",
+        "lambda": 1560.3092,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "Fe II 1608",
+        "lambda": 1608.45085,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Fe II 1611",
+        "lambda": 1611.20034,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "He II 1640",
+        "lambda": 1640.42,
+        "checked": true,
+        "group": "HE"
+    },
+    {
+        "name": "C I 1656",
+        "lambda": 1656.9284,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "O III] 1660",
+        "lambda": 1660.809,
+        "checked": false,
+        "group": "O"
+    },
+    {
+        "name": "O III] 1666",
+        "lambda": 1666.15,
+        "checked": true,
+        "group": "O"
+    },
+    {
+        "name": "Al II 1670",
+        "lambda": 1670.7886,
+        "checked": false,
+        "group": "AL"
+    },
+    {
+        "name": "Ni II 1703",
+        "lambda": 1703.4119,
+        "checked": false,
+        "group": "NI"
+    },
+    {
+        "name": "Ni II 1741",
+        "lambda": 1741.5531,
+        "checked": false,
+        "group": "NI"
+    },
+    {
+        "name": "N III] 1750",
+        "lambda": 1750,
+        "checked": false,
+        "group": "N"
+    },
+    {
+        "name": "Ni II 1751",
+        "lambda": 1751.9157,
+        "checked": false,
+        "group": "NI"
+    },
+    {
+        "name": "S I 1807",
+        "lambda": 1807.3113,
+        "checked": false,
+        "group": "S"
+    },
+    {
+        "name": "Si II 1808",
+        "lambda": 1808.01288,
+        "checked": false,
+        "group": "SI"
+    },
+    {
+        "name": "Al III 1854",
+        "lambda": 1854.71829,
+        "checked": false,
+        "group": "AL"
+    },
+    {
+        "name": "Al III 1862",
+        "lambda": 1862.79113,
+        "checked": false,
+        "group": "AL"
+    },
+    {
+        "name": "C III] 1908",
+        "lambda": 1908.73,
+        "checked": true,
+        "group": "C"
+    },
+    {
+        "name": "Zn II 2026",
+        "lambda": 2026.13709,
+        "checked": false,
+        "group": "ZN"
+    },
+    {
+        "name": "Mg I 2026",
+        "lambda": 2026.4768,
+        "checked": false,
+        "group": "MG"
+    },
+    {
+        "name": "Cr II 2056",
+        "lambda": 2056.25693,
+        "checked": false,
+        "group": "CR"
+    },
+    {
+        "name": "Cr II 2062",
+        "lambda": 2062.2361,
+        "checked": false,
+        "group": "CR"
+    },
+    {
+        "name": "Zn II 2062",
+        "lambda": 2062.66045,
+        "checked": false,
+        "group": "ZN"
+    },
+    {
+        "name": "Cr II 2066",
+        "lambda": 2066.16403,
+        "checked": false,
+        "group": "CR"
+    },
+    {
+        "name": "Fe II 2344",
+        "lambda": 2344.2129601,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Fe II 2374",
+        "lambda": 2374.4603294,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Fe II 2382",
+        "lambda": 2382.7641781,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Mn II 2576",
+        "lambda": 2576.877,
+        "checked": false,
+        "group": "MN"
+    },
+    {
+        "name": "Fe II 2586",
+        "lambda": 2586.649,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Mn II 2594",
+        "lambda": 2594.499,
+        "checked": false,
+        "group": "MN"
+    },
+    {
+        "name": "Fe II 2600",
+        "lambda": 2600.172,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Mn II 2606",
+        "lambda": 2606.462,
+        "checked": false,
+        "group": "MN"
+    },
+    {
+        "name": "Mg II 2796",
+        "lambda": 2796.3542699,
+        "checked": false,
+        "group": "MG"
+    },
+    {
+        "name": "Mg II 2803",
+        "lambda": 2803.5314853,
+        "checked": false,
+        "group": "MG"
+    },
+    {
+        "name": "Mg I 2852",
+        "lambda": 2852.96328,
+        "checked": false,
+        "group": "MG"
+    },
+    {
+        "name": "Na I 3303",
+        "lambda": 3303.369,
+        "checked": false,
+        "group": "NA"
+    },
+    {
+        "name": "O II 3827",
+        "lambda": 3627,
+        "checked": false,
+        "group": "O"
+    },
+    {
+        "name": "O II 3629",
+        "lambda": 3629,
+        "checked": false,
+        "group": "O"
+    },
+    {
+        "name": "H∞",
+        "lambda": 3646.05,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "[O II] 3726",
+        "lambda": 3727.092,
+        "checked": false,
+        "group": "O"
+    },
+    {
+        "name": "[O II] 3729",
+        "lambda": 3729.874,
+        "checked": true,
+        "group": "O"
+    },
+    {
+        "name": "Hη",
+        "lambda": 3835.39,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "[Ne III] 3869",
+        "lambda": 3869.84,
+        "checked": true,
+        "group": "NE"
+    },
+    {
+        "name": "Hζ",
+        "lambda": 3890.151,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "Ca II 3934",
+        "lambda": 3934.775,
+        "checked": false,
+        "group": "CA"
+    },
+    {
+        "name": "[Ne III] 3967",
+        "lambda": 3967.47,
+        "checked": false,
+        "group": "NE"
+    },
+    {
+        "name": "Ca II 3969",
+        "lambda": 3969.5901,
+        "checked": false,
+        "group": "CA"
+    },
+    {
+        "name": "Hε",
+        "lambda": 3970.07,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "Hδ",
+        "lambda": 4102.892,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "Hγ",
+        "lambda": 4341.684,
+        "checked": true,
+        "group": "H"
+    },
+    {
+        "name": "[O III] 4363",
+        "lambda": 4364.435,
+        "checked": false,
+        "group": "O"
+    },
+    {
+        "name": "He II 4687",
+        "lambda": 4687.115,
+        "checked": false,
+        "group": "HE"
+    },
+    {
+        "name": "Hβ",
+        "lambda": 4862.683,
+        "checked": true,
+        "group": "H"
+    },
+    {
+        "name": "[O III] 4959",
+        "lambda": 4960.295,
+        "checked": true,
+        "group": "O"
+    },
+    {
+        "name": "[O III] 5007",
+        "lambda": 5008.239,
+        "checked": true,
+        "group": "O"
+    },
+    {
+        "name": "He I 5876",
+        "lambda": 5877.299,
+        "checked": false,
+        "group": "HE"
+    },
+    {
+        "name": "Na I 5891",
+        "lambda": 5891.5833,
+        "checked": false,
+        "group": "NA"
+    },
+    {
+        "name": "Na I 5897",
+        "lambda": 5897.5581,
+        "checked": false,
+        "group": "NA"
+    },
+    {
+        "name": "[O I] 6300",
+        "lambda": 6302.046,
+        "checked": false,
+        "group": "O"
+    },
+    {
+        "name": "[N II] 6549",
+        "lambda": 6549.852,
+        "checked": false,
+        "group": "N"
+    },
+    {
+        "name": "Hα",
+        "lambda": 6564.613,
+        "checked": true,
+        "group": "H"
+    },
+    {
+        "name": "[N II] 6584",
+        "lambda": 6585.277,
+        "checked": false,
+        "group": "N"
+    },
+    {
+        "name": "[S II] 6716",
+        "lambda": 6718.294,
+        "checked": false,
+        "group": "S"
+    },
+    {
+        "name": "[S II] 6731",
+        "lambda": 6732.673,
+        "checked": true,
+        "group": "S"
+    },
+    {
+        "name": "He I 7065",
+        "lambda": 7067.198,
+        "checked": false,
+        "group": "HE"
+    },
+    {
+        "name": "He I 7283",
+        "lambda": 7283.356,
+        "checked": false,
+        "group": "HE"
+    },
+    {
+        "name": "[S III] 9069",
+        "lambda": 9071.1,
+        "checked": false,
+        "group": "S"
+    },
+    {
+        "name": "Pa 9",
+        "lambda": 9231.547,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "[S III] 9531",
+        "lambda": 9533.2,
+        "checked": true,
+        "group": "S"
+    },
+    {
+        "name": "Pa ε",
+        "lambda": 9548.591,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "[C I] 9850",
+        "lambda": 9852.96,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "Pa δ",
+        "lambda": 10052.13,
+        "checked": true,
+        "group": "H"
+    },
+    {
+        "name": "He I 10833",
+        "lambda": 10833.22,
+        "checked": true,
+        "group": "HE"
+    },
+    {
+        "name": "H2 2-0S(5)",
+        "lambda": 10851,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "Pa γ",
+        "lambda": 10941.09,
+        "checked": true,
+        "group": "H"
+    },
+    {
+        "name": "H2 2-0S(4)",
+        "lambda": 10998,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 2-0S(3)",
+        "lambda": 11175,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 2-0S(2)",
+        "lambda": 11382,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 2-0S(1)",
+        "lambda": 11622,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 2-0Q(1)",
+        "lambda": 12383,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 2-0Q(3)",
+        "lambda": 12473,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "[Fe II] 12570",
+        "lambda": 12570.238,
+        "checked": true,
+        "group": "FE"
+    },
+    {
+        "name": "H2 2-0Q(5)",
+        "lambda": 12636,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "He I 12780",
+        "lambda": 12780,
+        "checked": false,
+        "group": "HE"
+    },
+    {
+        "name": "Pa β",
+        "lambda": 12821.59,
+        "checked": true,
+        "group": "H"
+    },
+    {
+        "name": "[Fe II] 14421",
+        "lambda": 14421,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "[Fe II] 16113",
+        "lambda": 16113,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "[Fe II] 16305",
+        "lambda": 16305,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "[Fe II] 16460",
+        "lambda": 16439.981,
+        "checked": true,
+        "group": "FE"
+    },
+    {
+        "name": "H2 1-0S(11)",
+        "lambda": 16504,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0S(10)",
+        "lambda": 16665,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "[Fe II] 16811",
+        "lambda": 16811,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "H2 1-0S(9)",
+        "lambda": 16877,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0S(8)",
+        "lambda": 17147,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "[Fe II] 17360",
+        "lambda": 17360,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "H2 1-0S(7)",
+        "lambda": 17480,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "C II 17850",
+        "lambda": 17850,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "H2 1-0S(6)",
+        "lambda": 17880,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "[Fe II] 18100",
+        "lambda": 18100,
+        "checked": false,
+        "group": "FE"
+    },
+    {
+        "name": "Br ε",
+        "lambda": 18179.1,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "H2 1-0S(5)",
+        "lambda": 18358,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "He I 18685",
+        "lambda": 18689,
+        "checked": false,
+        "group": "HE"
+    },
+    {
+        "name": "Pa α",
+        "lambda": 18756.13,
+        "checked": true,
+        "group": "H"
+    },
+    {
+        "name": "H2 1-0S(4)",
+        "lambda": 18920,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 2-1S(5)",
+        "lambda": 19449,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "Br δ",
+        "lambda": 19450.87,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "H2 1-0S(3)",
+        "lambda": 19576,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 2-1S(4)",
+        "lambda": 20041,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 3-2S(6)",
+        "lambda": 20130,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0S(2)",
+        "lambda": 20338,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "He I 20590",
+        "lambda": 20590,
+        "checked": false,
+        "group": "HE"
+    },
+    {
+        "name": "H2 2-1S(3)",
+        "lambda": 20735,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "C III 20850",
+        "lambda": 20850,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "He I 21130",
+        "lambda": 21130,
+        "checked": false,
+        "group": "HE"
+    },
+    {
+        "name": "H2 1-0S(1)",
+        "lambda": 21218.3,
+        "checked": true,
+        "group": "H2"
+    },
+    {
+        "name": "H2 2-1S(2)",
+        "lambda": 21542,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "He I 21650",
+        "lambda": 21650,
+        "checked": false,
+        "group": "HE"
+    },
+    {
+        "name": "Br γ",
+        "lambda": 21661.2,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "C II 21880",
+        "lambda": 21880,
+        "checked": false,
+        "group": "C"
+    },
+    {
+        "name": "He II 21890",
+        "lambda": 21890,
+        "checked": false,
+        "group": "HE"
+    },
+    {
+        "name": "H2 3-2S(3)",
+        "lambda": 22014,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0S(0)",
+        "lambda": 22235,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 2-1S(1)",
+        "lambda": 22477,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0Q(1)",
+        "lambda": 24066,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0Q(2)",
+        "lambda": 24134,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0Q(3)",
+        "lambda": 24237,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0Q(4)",
+        "lambda": 24375,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0Q(5)",
+        "lambda": 24548,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0Q(6)",
+        "lambda": 24756,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0Q(7)",
+        "lambda": 25001,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "Br β",
+        "lambda": 26258.67,
+        "checked": true,
+        "group": "H"
+    },
+    {
+        "name": "H2 1-0O(2)",
+        "lambda": 26269,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0O(3)",
+        "lambda": 28025,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 2-1O(3)",
+        "lambda": 29741,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0O(4)",
+        "lambda": 30039,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0O(5)",
+        "lambda": 32350,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "PAH 3.3µm",
+        "lambda": 33000,
+        "checked": false,
+        "group": "PAH"
+    },
+    {
+        "name": "Pf ε",
+        "lambda": 33464,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "H2 2-1O(5)",
+        "lambda": 34379,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "H2 1-0O(6)",
+        "lambda": 35007,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "Pf δ",
+        "lambda": 36468,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "H2 1-0O(7)",
+        "lambda": 38075,
+        "checked": false,
+        "group": "H2"
+    },
+    {
+        "name": "Br α",
+        "lambda": 40522.62,
+        "checked": true,
+        "group": "H"
+    },
+    {
+        "name": "Pf β",
+        "lambda": 46585.8,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "PAH 6.2µm",
+        "lambda": 62000,
+        "checked": false,
+        "group": "PAH"
+    },
+    {
+        "name": "Pf α",
+        "lambda": 74681.4,
+        "checked": false,
+        "group": "H"
+    },
+    {
+        "name": "PAH 7.7µm",
+        "lambda": 77000,
+        "checked": false,
+        "group": "PAH"
+    },
+    {
+        "name": "PAH 8.6µm",
+        "lambda": 86000,
+        "checked": false,
+        "group": "PAH"
+    },
+    {
+        "name": "PAH 11.3µm",
+        "lambda": 113000,
+        "checked": false,
+        "group": "PAH"
+    }
+]
